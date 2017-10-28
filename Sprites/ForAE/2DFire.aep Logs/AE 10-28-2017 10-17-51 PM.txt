@@ -1,0 +1,17 @@
+Adobe After Effects v15.0 Windows 64 render log for project “2DFire.aep”
+
+Rendering started on 10/28/2017 at 10:17:51 PM
+
+  10/28/2017 10:17:51 PM: Starting composition “GreenFan”.
+
+  Output To: C:\Users\Mark\Documents\GitHub\BunnyMare-Art\Sprites\ForAE\PlatformFans\GreenFan\GreenFan_[#####].png    10/28/2017 10:17:52 PM: Finished composition “GreenFan”.
+
+
+  10/28/2017 10:17:52 PM: Starting composition “Pre-comp 1”.
+
+  Output To: C:\Users\Mark\Documents\GitHub\BunnyMare-Art\Sprites\ForAE\PlatformFans\BlueFan\BlueFan_[#####].png    10/28/2017 10:17:52 PM: Finished composition “Pre-comp 1”.
+
+
+  Total Time Elapsed: 1 Seconds
+Log closed on 10/28/2017 at 10:17:52 PM
+
